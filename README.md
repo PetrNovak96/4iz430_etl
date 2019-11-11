@@ -3,8 +3,7 @@
 * [zadání](https://docs.google.com/document/d/1xX6q7_gClyZGO0gbPz37ttET8d05bUnTx2bKCtRxlVE/edit#)
 * stačí ted dodelat tu analyzu
 ## Sloupce
-<table border="1">
-
+<table>
 <tr>
 <th>Název chorvatsky</th>
 <th>Název česky</th>
