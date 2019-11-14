@@ -25,6 +25,11 @@
 </tr>
 
 <tr>
+<td>Šifra operativnog programa</td>
+<td>Zkratka operativního programu</td>
+</tr>
+
+<tr>
 <td>NUTSII</td>
 <td>Název NUTS</td>
 </tr>
@@ -37,6 +42,11 @@
 <tr>
 <td>Korisnik</td>
 <td>Žadatel</td>
+</tr>
+
+<tr>
+<td>Osobni identifikacijski broj</td>
+<td>Identifikační číslo</td>
 </tr>
 
 <tr>
