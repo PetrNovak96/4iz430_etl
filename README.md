@@ -1,6 +1,7 @@
 # DU ETL
 *Propojená data*
 * [zadání](https://docs.google.com/document/d/1xX6q7_gClyZGO0gbPz37ttET8d05bUnTx2bKCtRxlVE/edit#)
+* [odkaz na github repo](https://github.com/PetrNovak96/4iz430_etl)
 * stačí ted dodelat tu analyzu
 ## Sloupce
 <table>
