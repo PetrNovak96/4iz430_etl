@@ -11,9 +11,9 @@ Observation
     -mira-> Šifra operativnog programa [String]
     -dim-> Fond
     -dim-> Operativni program
-      -mira-> Šifra operativnog programa
+      -mira-> Šifra operativnog programa [String]
       -dim-> Korisnik
-        -mira->OIB
+        -mira->OIB [String]
  
  Pozn.: OIB je unikátní identifikátor fyzických nebo právnictvíh osob v Chorvatsku.
  Vzhledem k jeho přítomnosti ve všech jménech žadatelů dávalo smyls ho uvést separátně. 
