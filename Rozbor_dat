@@ -1,19 +1,22 @@
 V odevzdávárně bude nazván jako “Rozbor_HR_stehlik.txt”
 
-Observation
+Projekt
   -mira-> Bespovratna sredstva [kn]
   -mira-> Ukupno prihvatljivi troškovi [kn]
-  -dim-> NUTSII
-    -dim-> Županija
-  -dim-> Naziv projekta
-    -mira-> Datum ugovaranja [date]
-    -mira- Zaključni datum provedbe aktivnosti [date]
+  -mira- Zaključni datum provedbe aktivnosti [date]
+  -mira-> Naziv projekta [String]
+  -dim->Program
     -mira-> Šifra operativnog programa [String]
+    -mira->Operativni program [String]
     -dim-> Fond
-    -dim-> Operativni program
-      -mira-> Šifra operativnog programa [String]
-      -dim-> Korisnik
-        -mira->OIB [String]
+      -Nazev fondu [String]
+  -dim->Dotace
+    -mira-> Datum ugovaranja [date]
+    -dim-> Samospravny celek
+      -mirq-> NUTSII [String]
+      -mira-> Županija [String]
+    -dim-> Žadatel
+      -mira-> Korisnik [String]
+      -mira->OIB [String]
  
- Pozn.: OIB je unikátní identifikátor fyzických nebo právnictvíh osob v Chorvatsku.
- Vzhledem k jeho přítomnosti ve všech jménech žadatelů dávalo smyls ho uvést separátně. 
+ Pozn.: OIB je unikátní identifikátor fyzických nebo právnictvíh osob v Chorvatsku. 
