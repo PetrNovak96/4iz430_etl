@@ -1,8 +1,8 @@
 # DU ETL
-*Propojená data*
+## Odkazy
 * [zadání](https://docs.google.com/document/d/1xX6q7_gClyZGO0gbPz37ttET8d05bUnTx2bKCtRxlVE/edit#)
 * [odkaz na github repo](https://github.com/PetrNovak96/4iz430_etl)
-* stačí ted dodelat tu analyzu
+* [poznamky](poznamky.md)
 ## Sloupce
 <table>
 <tr>
@@ -69,7 +69,7 @@
 <td>Ukupno prihvatljivi troškovi</td>
 <td>Celkové způsobilé náklady</td>
 </tr>
-
-
-
 </table>
+
+## Visualisace
+![](Chorvatske_Dotace.png)
